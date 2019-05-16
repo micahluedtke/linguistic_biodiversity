@@ -1,4 +1,4 @@
-# Final report
+# Technical Report
 This report summaries the process, findings, and future work of my ongoing project to understand the relationship between linguistic diversity and biodiversity, to located high risk areas, and identify underlying causes.<br>
 
 Currently, I have built three models with varying degrees of success:
@@ -54,7 +54,7 @@ The third model used demographic data to predict the linguistic diversity index 
 
 ## Mapping
 
-Beyond the quantitative results of the modeling, I wanted to display the information in the most useful format. I created a number of interactive maps using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Folium](https://python-visualization.github.io/folium/). They can be found in the [03_maps_and_images](./03_maps_and_images) folder. Still images can be found below:
+Beyond the quantitative results of the modeling, I wanted to display the information in the most useful format. I created a number of interactive maps using [Bokeh](https://bokeh.pydata.org/en/latest/) and [Folium](https://python-visualization.github.io/folium/). They can be found in the [03_maps_and_images](./03_maps_and_images) folder.
 
 
 ## Summary
@@ -71,4 +71,4 @@ The third model used demographic data to predict the linguistic diversity index 
 
 This is an ongoing project to understand the relationship between linguistic diversity and biodiversity, to located high risk areas, and identify underlying causes. Future modeling will further explore the relationships between linguistic diversity and biodiversity.
 
-If you're interested in collaborating, feel free to [send me an email](micahluedtke@gmail.com).
+If you're interested in collaborating, feel free to [send me an email](mailto:micahluedtke@gmail.com).
